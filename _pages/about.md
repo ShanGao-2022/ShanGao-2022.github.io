@@ -38,15 +38,19 @@ Research on acceptable risk in Single Pilot Operations (SPO),
 Tianjin Graduate Research and Innovation Project (2022BKY150),
 Principal, 2023-2024.
 
-
 Study on risky identification and portrait method of airline pilots,
 Tianjin Graduate Research and Innovation Project (2019YJSS068),
 Principal, 2019-2020.
 
-
 Research on characteristics and formation mechanism of airline pilots' risky behavior,
 National Natural Science Foundation of China (32071063),
 Participant, 2021-2024.
+
+Conferences
+======
+HCII 2020, the 22nd International Conference on Human-Computer Interaction, Copenhagen, Danmark, 19-24 July 2020 (Presenter)
+The 4th COMAC International Technological Innovative Week, Shanghai, China, 21-25, September 2020 (Poster)
+The 9th Annual Meeting of the Risk Analysis of China Disaster Defense Association, Tianjin, China, 24-25, October 2020（Presenter）
 
 Contact
 ======
