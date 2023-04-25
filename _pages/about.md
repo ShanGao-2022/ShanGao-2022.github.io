@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a first year Ph.D. student from the College of Safety Science and Engineering, Civil Aviation University of China. My interests include human factors. ergonomics, safety in the field of aviation.
+
+I'm very fortunated to be advised by [Prof. Lei Wang] (https://www.cauc.edu.cn/yjsy/info/1139/1441.htm) of the Lab of Human Factors in Aviation, Civil Aviation University of China. I reveived my master degree in Flight Technology and Safety in 2021 at the College of Safety Science and Engineering, Civil Aviation University of China, and my bechalor degree in Safety Engineering in 2018 at the College of Safety Science and Engineering, Taiyuan University of Technology. I also worked as a research assistant at the Center of Psychological Sciences, Zhejiang University.
+
+You can find my CV here: [Shan Gao's CV](../assets/CV.pdf).
+
+[Email](shangao2022@foxmail.com) / [researchgate](https://www.researchgate.net/profile/Shan-Gao-66?ev=hdr_xprf) / [WeChat](../image/wechat.jpg)
 
 A data-driven personal website
 ======
