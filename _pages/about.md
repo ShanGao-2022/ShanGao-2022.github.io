@@ -46,4 +46,4 @@ Contact
 ======
 Location: Room 209, 23 N. College of Safety Science and Engineering, Civil Aviation University of China, Jinbei Road No.2898, Tianjin, 300300
 
-[Email](shangao2022@foxmail.com) / [researchgate](https://www.researchgate.net/profile/Shan-Gao-66?ev=hdr_xprf) / [WeChat](../image/wechat.jpg)
+[Email](mailto:shangao2022@foxmail.com) / [researchgate](https://www.researchgate.net/profile/Shan-Gao-66?ev=hdr_xprf) / [WeChat](../images/wechat.jpg)
