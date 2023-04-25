@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a first year Ph.D. student from the College of Safety Science and Engineering, Civil Aviation University of China. My interests include human factors. ergonomics, safety in the field of aviation.
 
-I'm very fortunated to be advised by [Prof. Lei Wang](https://www.cauc.edu.cn/yjsy/info/1139/1441.htm) of the Lab of Human Factors in Aviation, Civil Aviation University of China. I reveived my master degree in Flight Technology and Safety in 2021 at the College of Safety Science and Engineering, Civil Aviation University of China, and my bechalor degree in Safety Engineering in 2018 at the College of Safety Science and Engineering, Taiyuan University of Technology. I also worked as a research assistant at the Center of Psychological Sciences, Zhejiang University.
+I'm very fortunated to be advised by [Prof. Lei Wang](https://www.cauc.edu.cn/yjsy/info/1139/1441.htm/) of the Lab of Human Factors in Aviation, Civil Aviation University of China. I reveived my master degree in Flight Technology and Safety in 2021 at the College of Safety Science and Engineering, Civil Aviation University of China, and my bechalor degree in Safety Engineering in 2018 at the College of Safety Science and Engineering, Taiyuan University of Technology. I also worked as a research assistant at the Center of Psychological Sciences, Zhejiang University.
 
 You can find my CV here: [Shan Gao's CV](../assets/CV.pdf).
 
