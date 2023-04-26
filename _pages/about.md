@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Ph.D. student, fortunately to be advised by [Prof. Lei Wang](https://www.cauc.edu.cn/yjsy/info/1139/1441.htm/), from the Lab of Human Factors in Aviation, College of Safety Science and Engineering, Civil Aviation University of China. 
+I'm a first-year Ph.D. student, fortunately to be advised by [Prof. Lei Wang](https://www.cauc.edu.cn/yjsy/info/1139/1441.htm), from the Lab of Human Factors in Aviation, College of Safety Science and Engineering, Civil Aviation University of China. 
 
 My interests include ***human factors, ergonomics, and safety engineering*** in the field of aviation. Meanwhile, I'm also interested in ***human-computer interaction, human-centered design, and user experience*** regarding emerging technologies in the aviation domain such as Single Pilot Operations.
 
