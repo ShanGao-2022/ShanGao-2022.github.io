@@ -26,7 +26,7 @@ Publication
 
 [4] Gao, S., Xian, Y. and Wang, L. (2023). An evaluation framework on pilot’s competency-based flying style. In the 25th International Conference on Human-Computer Interaction, Copenhagen, Denmark. (accept)
 
-[5] Gao, S., & Wang, L. (2020). Effects of mental workload and risk perception on pilots’ safety performance in adverse weather contexts. In the 22th International Conference on Human-Computer Interaction, Copenhagen, Denmark, pp. 278-291.
+[5] Gao, S. and Wang, L. (2020). Effects of mental workload and risk perception on pilots’ safety performance in adverse weather contexts. In the 22th International Conference on Human-Computer Interaction, Copenhagen, Denmark, pp. 278-291.
 
 Research Project
 ======
