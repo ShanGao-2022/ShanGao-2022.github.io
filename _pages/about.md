@@ -38,14 +38,14 @@ Research Project
 
 Conferences
 ======
-[1] HCII 2020, the 22nd International Conference on Human-Computer Interaction, Copenhagen, Danmark, 19-24 July 2020, **Presenter**
+[1] HCII 2020, the 22nd International Conference on Human-Computer Interaction, Copenhagen, Danmark, 19-24 July 2020, **Presenter**.
 
-[2] The 4th COMAC International Technological Innovative Week, Shanghai, China, 21-25, September 2020, **Poster**
+[2] The 4th COMAC International Technological Innovative Week, Shanghai, China, 21-25, September 2020, **Poster**.
 
-[3] The 9th Annual Meeting of the Risk Analysis of China Disaster Defense Association, Tianjin, China, 24-25, October 2020, **Presenter**
+[3] The 9th Annual Meeting of the Risk Analysis of China Disaster Defense Association, Tianjin, China, 24-25, October 2020, **Presenter**.
 
 Contact
 ======
-Location: Room 209, 23 N. College of Safety Science and Engineering, Civil Aviation University of China, Jinbei Road No.2898, Tianjin, 300300
+Location: Room 209, 23 N. College of Safety Science and Engineering, Civil Aviation University of China, Jinbei Road No.2898, Tianjin, 300300.
 
 [E-mail](mailto:shangao2022@foxmail.com) / [ResearchGate](https://www.researchgate.net/profile/Shan-Gao-66?ev=hdr_xprf) / [WeChat](../images/wechat.jpg)
