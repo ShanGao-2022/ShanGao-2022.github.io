@@ -18,15 +18,17 @@ You can find my CV here: [Shan Gao's CV](../assets/CV.pdf).
 
 Publication
 ======
-[1] ***Gao, S.*** and Wang L. (2023). More experience might not bring more safety: Negative moderating effect of pilots’ flight experience on their safety performance. International Journal of Industrial Ergonomics, 95, 103430.
+[1] Wang, L., ***Gao, S.***, Hong, R. & Jiang Y. (2023). Effects of age and flight exposure on flight safety performance: Evidence from a large cross-sectional pilot sample. Safety Science, 165, 106199.
 
-[2] Wang, L., ***Gao, S.***, Tan, W. and Zhang, J. (2023). Pilots’ mental workload variation when taking a risk in a flight scenario: a study based on flight simulator experiments. International Journal of Occupational Safety and Ergonomics, 29(1), 366-375.
+[2] ***Gao, S.*** & Wang L. (2023). More experience might not bring more safety: Negative moderating effect of pilots’ flight experience on their safety performance. International Journal of Industrial Ergonomics, 95, 103430.
 
-[3] Zhai, S., ***Gao, S.***, Wang, L. and Liu, P. (2023). When both human and machine drivers make mistakes: Whom to blame? Transportation Research Part A: Policy and Practice, 170, 103637.
+[3] Wang, L., ***Gao, S.***, Tan, W. & Zhang, J. (2023). Pilots’ mental workload variation when taking a risk in a flight scenario: a study based on flight simulator experiments. International Journal of Occupational Safety and Ergonomics, 29(1), 366-375.
 
-[4] ***Gao, S.***, Xian, Y. and Wang, L. (2023). An evaluation framework on pilot’s competency-based flying style. In the 25th International Conference on Human-Computer Interaction, Copenhagen, Denmark. (accept)
+[4] Zhai, S., ***Gao, S.***, Wang, L. & Liu, P. (2023). When both human and machine drivers make mistakes: Whom to blame? Transportation Research Part A: Policy and Practice, 170, 103637.
 
-[5] ***Gao, S.*** and Wang, L. (2020). Effects of mental workload and risk perception on pilots’ safety performance in adverse weather contexts. In the 22th International Conference on Human-Computer Interaction, Copenhagen, Denmark, pp. 278-291.
+[5] ***Gao, S.***, Xian, Y. & Wang, L. (2023). An evaluation framework on pilot’s competency-based flying style. In the 25th International Conference on Human-Computer Interaction, Copenhagen, Denmark. (accept)
+
+[6] ***Gao, S.*** & Wang, L. (2020). Effects of mental workload and risk perception on pilots’ safety performance in adverse weather contexts. In the 22th International Conference on Human-Computer Interaction, Copenhagen, Denmark, pp. 278-291.
 
 Research Project
 ======
