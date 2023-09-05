@@ -14,7 +14,7 @@ My interests include ***human factors, ergonomics, and safety engineering*** in 
 
 Before my Ph.D. career, I also worked as a research assistant with [Prof. Peng Liu](https://person.zju.edu.cn/pengliu#955294) at the Center of Psychological Sciences, Zhejiang University from 2021 to 2022. I received my master's degree in Flight Technology and Safety in 2021 at the College of Safety Science and Engineering, Civil Aviation University of China, and bachelor's degree in Safety Engineering in 2018 at the College of Safety Science and Engineering, Taiyuan University of Technology.
 
-You can find my CV here: [Shan Gao's CV](../assets/CV.pdf).
+You can find my CV here: [Shan Gao's CV](../assets/gaoshancv.pdf).
 
 Publication
 ======
