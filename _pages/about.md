@@ -38,7 +38,7 @@ Research Project
 
 [3] National Natural Science Foundation of China (No. 32071063), Research on characteristics and formation mechanism of airline pilots' risky behavior, Participant, 2021-2024.
 
-Conferences
+Conference
 ======
 [1] HCII2023, the 25th International Conference on Human-Computer Interaction, Copenhagen, Danmark, 22-28, July 2023, ***Presenter***.
 
