@@ -36,9 +36,9 @@ Publication
 
 Research Project
 ======
-[1] Chinese Fundamental Research Funds for the Central Universities (No. 3122024026), Research on acceptable risk in Single Pilot Operations (SPO), ***Principal***, 2023-2024.
+[1] Chinese Fundamental Research Funds for the Central Universities (No. 3122024026), Research on the classification and pattern recognition of pilot risk-taking behavior motivations, ***Principal***, 2024-2026.
 
-[2] Tianjin Graduate Research and Innovation Project (No. 2022BKY150), Research on acceptable risk in Single Pilot Operations (SPO), ***Principal***, 2023-2024.
+[2] Tianjin Graduate Research and Innovation Project (No. 2022BKY150), Research on acceptable risk in the Single Pilot Operations (SPO), ***Principal***, 2023-2024.
 
 [3] Tianjin Graduate Research and Innovation Project (No. 2019YJSS068), Study on risky identification and portrait method of airline pilots, ***Principal***, 2019-2020.
 
